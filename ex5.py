@@ -15,3 +15,4 @@ print "his teeth are usually %s depending on the coffee." % teeth
 
 #this line is tricky, try to get it exactly right
 print "If I add %d, %d, and %d I get %d." % (age, height, weight, age  +  height + weight)
+#the next step is accepting input from comand line.
