@@ -4,7 +4,7 @@ height = 170 #Centimeter
 weight = 72 #kg
 eyes = 'Black'
 teeth = 'White'
-hair = 'Brown'
+hair = 'Black'
 
 print "Let's talk about %s." % name
 print "He's %d Centimeter tall." % height
